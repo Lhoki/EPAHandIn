@@ -1,20 +1,17 @@
 package mediaorganizer.Utility;
 
-import hermes.europe.uk.mediaorganizer.PlaylistDataModel;
 import javafx.application.*;
 import javafx.beans.value.*;
 import javafx.collections.*;
-import javafx.event.*;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.MapValueFactory;
-import javafx.scene.image.*;
 import javafx.scene.layout.*;
 import javafx.scene.media.*;
 import javafx.stage.Stage;
-import javafx.util.Callback;
 import javafx.util.Duration;
+import mediaorganizer.PlaylistDataModel;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package hermes.europe.uk.mediaorganizer;
+package mediaorganizer;
 
 import javafx.beans.property.SimpleStringProperty;
 

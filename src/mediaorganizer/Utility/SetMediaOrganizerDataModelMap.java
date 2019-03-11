@@ -1,7 +1,7 @@
 package mediaorganizer.Utility;
 
-import hermes.europe.uk.mediaorganizer.MediaOrganizerDataModel;
 import javafx.collections.ObservableList;
+import mediaorganizer.MediaOrganizerDataModel;
 
 import java.util.HashMap;
 

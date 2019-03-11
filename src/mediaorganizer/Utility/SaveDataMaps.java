@@ -1,7 +1,7 @@
 package mediaorganizer.Utility;
 
-import hermes.europe.uk.mediaorganizer.PlaylistDataModel;
-import hermes.europe.uk.mediaorganizer.MediaOrganizerDataModel;
+import mediaorganizer.MediaOrganizerDataModel;
+import mediaorganizer.PlaylistDataModel;
 
 import java.beans.XMLEncoder;
 import java.io.*;

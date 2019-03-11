@@ -1,8 +1,5 @@
 package mediaorganizer.Controller;
 
-import hermes.europe.uk.mediaorganizer.PlaylistDataModel;
-import hermes.europe.uk.mediaorganizer.MediaOrganizerDataModel;
-import hermes.europe.uk.mediaorganizer.Utility.*;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -21,6 +18,9 @@ import javafx.stage.DirectoryChooser;
 import javafx.stage.FileChooser;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
+import mediaorganizer.MediaOrganizerDataModel;
+import mediaorganizer.PlaylistDataModel;
+import mediaorganizer.Utility.*;
 
 import java.beans.XMLDecoder;
 import java.io.File;
@@ -32,8 +32,8 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.function.Predicate;
 import java.util.ResourceBundle;
+import java.util.function.Predicate;
 
 public class MediaOrganizerController implements Initializable {
 
