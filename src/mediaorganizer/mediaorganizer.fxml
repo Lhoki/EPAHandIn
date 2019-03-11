@@ -16,7 +16,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<GridPane fx:id="gridPaneID" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hermes.europe.uk.mediaorganizer.Controller.MediaOrganizerController">
+<GridPane fx:id="gridPaneID" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mediaorganizer.Controller.MediaOrganizerController">
     <columnConstraints>
         <ColumnConstraints hgrow="SOMETIMES" maxWidth="530.0" minWidth="0.0" prefWidth="6.0" />
         <ColumnConstraints hgrow="SOMETIMES" maxWidth="548.9999847412109" minWidth="10.0" prefWidth="328.33331298828125" />
